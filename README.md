@@ -5,14 +5,14 @@
 <img src="figs/100126-the-glass.jpeg" width="500">
 
 ### [Project Description](doc/)
-Emotion Analysis on the dataset
 
 Term: Fall 2022
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Projec title: Emotion Analysis on the dataset
++ This project is conducted by Chaitanya Shah
+
++ Project summary: My idea behind this project is to analyze the emotions in different texts across schools and authors. My goal is to see if the information in the data coincides with my own understanding of different schools and also to find some interesting obeservations. I also plan to conclude what type of texts might be present in each school of thought based on my analysis.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
