@@ -5,7 +5,7 @@
 <img src="figs/100126-the-glass.jpeg" width="500">
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) project this semester. 
+Emotion Analysis on the dataset
 
 Term: Fall 2022
 
